@@ -1,4 +1,4 @@
-# Análise Finaceira e Segmentação de Receitas e Despesas
+# Análise Financeira e Segmentação de Receitas e Despesas
   
 Bem-vindo(a) à análise financeira detalhada e segmentação de receitas e despesas de uma empresa. 
 
